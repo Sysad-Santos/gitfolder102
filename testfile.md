@@ -227,7 +227,7 @@ Term 1
 
 Term 2
   ~ Definition 2a
- 
+ ello mate
 
 
 *[HTML]: Hyper Text Markup Language
